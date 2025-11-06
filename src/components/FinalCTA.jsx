@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Button } from '@/components/ui/button';
+import { Button } from './ui/button';
 import { ArrowRight, Shield, Clock, Users } from 'lucide-react';
 
 // --- CONFIGURACIÓN DE LA OFERTA ---
